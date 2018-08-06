@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\Convierte_Fahrenheit_a_Celsius\Convierte_Fahrenheit_a_Celsius\bin\Debug\Convierte_Fahrenheit_a_Celsius.exe.config
+C:\Users\Mauricio M\Downloads\Convierte_Fahrenheit_a_Celsius\Convierte_Fahrenheit_a_Celsius\bin\Debug\Convierte_Fahrenheit_a_Celsius.exe
+C:\Users\Mauricio M\Downloads\Convierte_Fahrenheit_a_Celsius\Convierte_Fahrenheit_a_Celsius\bin\Debug\Convierte_Fahrenheit_a_Celsius.pdb
+C:\Users\Mauricio M\Downloads\Convierte_Fahrenheit_a_Celsius\Convierte_Fahrenheit_a_Celsius\obj\Debug\Convierte_Fahrenheit_a_Celsius.exe
+C:\Users\Mauricio M\Downloads\Convierte_Fahrenheit_a_Celsius\Convierte_Fahrenheit_a_Celsius\obj\Debug\Convierte_Fahrenheit_a_Celsius.pdb
